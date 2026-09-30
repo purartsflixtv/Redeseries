@@ -1,5 +1,18 @@
 #EXTM3U
 # ==========================================
+# 📺 Os Inocentes (2018) - 1 TEMPORADA
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/4pVv7kRmBmfh3ppol4wsEeINZp8.jpg", [SERIE] Os Inocentes (2018)
+#SINOPSE: Os namorados June e Harry fogem de casa e são arrastados para um mundo confuso e perigoso quando ela começa a demonstrar habilidades misteriosas.
+#EPISODIO: S01E01 - Como tudo começou|http://redeflixapi.store/serie/77400/1/1
+#EPISODIO: S01E02 - Calma, não é nada|http://redeflixapi.store/serie/77400/1/2
+#EPISODIO: S01E03 - Chiclete e água sanitária|http://redeflixapi.store/serie/77400/1/3
+#EPISODIO: S01E04 - Deborah|http://redeflixapi.store/serie/77400/1/4
+#EPISODIO: S01E05 - Amador apaixonado|http://redeflixapi.store/serie/77400/1/5
+#EPISODIO: S01E06 - Não sou a única esquisita por aqui|http://redeflixapi.store/serie/77400/1/6
+#EPISODIO: S01E07 - Me leva junto?|http://redeflixapi.store/serie/77400/1/7
+#EPISODIO: S01E08 - Faria tudo por você, qualquer coisa.|http://redeflixapi.store/serie/77400/1/8
+# ==========================================
 # 📺 Elementaríssimo (2012) - 7 TEMPORADAS
 # ==========================================
 #EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/ac3zAaACyzaRI9td1BMLYGPfP5G.jpg", [SERIE] Elementaríssimo (2012)
