@@ -1,5 +1,706 @@
 #EXTM3U
 # ==========================================
+# 📺 Como Eu Conheci Sua Mãe (2005) - 9 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/578tlvbrpFwc959bQTT93W2RYA.jpg", [SERIE] Como Eu Conheci Sua Mãe (2005)
+#SINOPSE: No ano de 2030, Ted Mosby, um arquiteto, decide explicar a seus filhos a história de como ele conheceu a mãe deles.
+#EPISODIO: S01E01 - Piloto|http://redeflixapi.store/serie/1100/1/1
+#EPISODIO: S01E02 - Girafa Roxa|http://redeflixapi.store/serie/1100/1/2
+#EPISODIO: S01E03 - Por Que Eu Não Saio Com o Barney?|http://redeflixapi.store/serie/1100/1/3
+#EPISODIO: S01E04 - Novas Opiniões|http://redeflixapi.store/serie/1100/1/4
+#EPISODIO: S01E05 - A Balada|http://redeflixapi.store/serie/1100/1/5
+#EPISODIO: S01E06 - A Fantasia de Abóbora|http://redeflixapi.store/serie/1100/1/6
+#EPISODIO: S01E07 - O Par Perfeito|http://redeflixapi.store/serie/1100/1/7
+#EPISODIO: S01E08 - O Duelo|http://redeflixapi.store/serie/1100/1/8
+#EPISODIO: S01E09 - A Ação de Graças|http://redeflixapi.store/serie/1100/1/9
+#EPISODIO: S01E10 - O Incidente do Abacaxi|http://redeflixapi.store/serie/1100/1/10
+#EPISODIO: S01E11 - A Limusine|http://redeflixapi.store/serie/1100/1/11
+#EPISODIO: S01E12 - O Casamento|http://redeflixapi.store/serie/1100/1/12
+#EPISODIO: S01E13 - A Noite Perfeita|http://redeflixapi.store/serie/1100/1/13
+#EPISODIO: S01E14 - Rala e Rola|http://redeflixapi.store/serie/1100/1/14
+#EPISODIO: S01E15 - A Noite do Jogo|http://redeflixapi.store/serie/1100/1/15
+#EPISODIO: S01E16 - Decisões|http://redeflixapi.store/serie/1100/1/16
+#EPISODIO: S01E17 - A Adaptação|http://redeflixapi.store/serie/1100/1/17
+#EPISODIO: S01E18 - Nada de Bom Acontece Depois das 2 da Manhã|http://redeflixapi.store/serie/1100/1/18
+#EPISODIO: S01E19 - A Acompanhante|http://redeflixapi.store/serie/1100/1/19
+#EPISODIO: S01E20 - A Formatura|http://redeflixapi.store/serie/1100/1/20
+#EPISODIO: S01E21 - Dúvidas|http://redeflixapi.store/serie/1100/1/21
+#EPISODIO: S01E22 - O Ultimato|http://redeflixapi.store/serie/1100/1/22
+#EPISODIO: S02E01 - Onde estávamos?|http://redeflixapi.store/serie/1100/2/1
+#EPISODIO: S02E02 - O Escorpião e o Sapo|http://redeflixapi.store/serie/1100/2/2
+#EPISODIO: S02E03 - Café da Manhã|http://redeflixapi.store/serie/1100/2/3
+#EPISODIO: S02E04 - Ted Mosby, o Arquiteto|http://redeflixapi.store/serie/1100/2/4
+#EPISODIO: S02E05 - O Melhor Casal do Mundo|http://redeflixapi.store/serie/1100/2/5
+#EPISODIO: S02E06 - A Justiça de Aldrin|http://redeflixapi.store/serie/1100/2/6
+#EPISODIO: S02E07 - Swarley|http://redeflixapi.store/serie/1100/2/7
+#EPISODIO: S02E08 - Atlantic City|http://redeflixapi.store/serie/1100/2/8
+#EPISODIO: S02E09 - Aposta do Tapa|http://redeflixapi.store/serie/1100/2/9
+#EPISODIO: S02E10 - Vigor de Solteiro|http://redeflixapi.store/serie/1100/2/10
+#EPISODIO: S02E11 - Como Lily Roubou o Natal|http://redeflixapi.store/serie/1100/2/11
+#EPISODIO: S02E12 - Primeira Vez em Nova York|http://redeflixapi.store/serie/1100/2/12
+#EPISODIO: S02E13 - Colunas|http://redeflixapi.store/serie/1100/2/13
+#EPISODIO: S02E14 - Futebol de Segunda à Noite|http://redeflixapi.store/serie/1100/2/14
+#EPISODIO: S02E15 - Moeda da Sorte|http://redeflixapi.store/serie/1100/2/15
+#EPISODIO: S02E16 - Coisas|http://redeflixapi.store/serie/1100/2/16
+#EPISODIO: S02E17 - Arrivederci, Fiero|http://redeflixapi.store/serie/1100/2/17
+#EPISODIO: S02E18 - Dia de Mudança|http://redeflixapi.store/serie/1100/2/18
+#EPISODIO: S02E19 - Despedida de Solteiro|http://redeflixapi.store/serie/1100/2/19
+#EPISODIO: S02E20 - O Programa|http://redeflixapi.store/serie/1100/2/20
+#EPISODIO: S02E21 - Algo Emprestado|http://redeflixapi.store/serie/1100/2/21
+#EPISODIO: S02E22 - Algo Azul|http://redeflixapi.store/serie/1100/2/22
+#EPISODIO: S03E01 - Espere|http://redeflixapi.store/serie/1100/3/1
+#EPISODIO: S03E02 - Não Somos Daqui|http://redeflixapi.store/serie/1100/3/2
+#EPISODIO: S03E03 - Triciclo|http://redeflixapi.store/serie/1100/3/3
+#EPISODIO: S03E04 - O Garotinho|http://redeflixapi.store/serie/1100/3/4
+#EPISODIO: S03E05 - Como Eu Conheci Todos|http://redeflixapi.store/serie/1100/3/5
+#EPISODIO: S03E06 - Eu não Sou Esse Cara|http://redeflixapi.store/serie/1100/3/6
+#EPISODIO: S03E07 - Cavedrais|http://redeflixapi.store/serie/1100/3/7
+#EPISODIO: S03E08 - Alerta de Spoiler|http://redeflixapi.store/serie/1100/3/8
+#EPISODIO: S03E09 - Estapeação de Graças|http://redeflixapi.store/serie/1100/3/9
+#EPISODIO: S03E10 - A Praga|http://redeflixapi.store/serie/1100/3/10
+#EPISODIO: S03E11 - A Regra de Platina|http://redeflixapi.store/serie/1100/3/11
+#EPISODIO: S03E12 - Sem o Amanhã|http://redeflixapi.store/serie/1100/3/12
+#EPISODIO: S03E13 - Dez Sessões|http://redeflixapi.store/serie/1100/3/13
+#EPISODIO: S03E14 - O Placar|http://redeflixapi.store/serie/1100/3/14
+#EPISODIO: S03E15 - A Cadeia do Grito|http://redeflixapi.store/serie/1100/3/15
+#EPISODIO: S03E16 - Castelos na Areia|http://redeflixapi.store/serie/1100/3/16
+#EPISODIO: S03E17 - A Cabra|http://redeflixapi.store/serie/1100/3/17
+#EPISODIO: S03E18 - Bro Substituto|http://redeflixapi.store/serie/1100/3/18
+#EPISODIO: S03E19 - Tudo Deve Continuar|http://redeflixapi.store/serie/1100/3/19
+#EPISODIO: S03E20 - Milagres|http://redeflixapi.store/serie/1100/3/20
+#EPISODIO: S04E01 - Não Te Conheço?|http://redeflixapi.store/serie/1100/4/1
+#EPISODIO: S04E02 - O Melhor Hambúrguer de Nova York|http://redeflixapi.store/serie/1100/4/2
+#EPISODIO: S04E03 - Eu Amo Nova Jersey|http://redeflixapi.store/serie/1100/4/3
+#EPISODIO: S04E04 - Intervenção|http://redeflixapi.store/serie/1100/4/4
+#EPISODIO: S04E05 - O Casamento|http://redeflixapi.store/serie/1100/4/5
+#EPISODIO: S04E06 - Felizes Para Sempre|http://redeflixapi.store/serie/1100/4/6
+#EPISODIO: S04E07 - O Dia dos Não Pais|http://redeflixapi.store/serie/1100/4/7
+#EPISODIO: S04E08 - Garotas Wooo Wooo|http://redeflixapi.store/serie/1100/4/8
+#EPISODIO: S04E09 - O Cara Peladão|http://redeflixapi.store/serie/1100/4/9
+#EPISODIO: S04E10 - A Briga|http://redeflixapi.store/serie/1100/4/10
+#EPISODIO: S04E11 - Minnesota|http://redeflixapi.store/serie/1100/4/11
+#EPISODIO: S04E12 - Benefícios|http://redeflixapi.store/serie/1100/4/12
+#EPISODIO: S04E13 - Três Dias de Neve|http://redeflixapi.store/serie/1100/4/13
+#EPISODIO: S04E14 - O Sim Possível|http://redeflixapi.store/serie/1100/4/14
+#EPISODIO: S04E15 - Os Stinsons|http://redeflixapi.store/serie/1100/4/15
+#EPISODIO: S04E16 - Desculpe, Mano|http://redeflixapi.store/serie/1100/4/16
+#EPISODIO: S04E17 - O Teste da Varanda|http://redeflixapi.store/serie/1100/4/17
+#EPISODIO: S04E18 - Velho Rei Clancy|http://redeflixapi.store/serie/1100/4/18
+#EPISODIO: S04E19 - Murtaugh|http://redeflixapi.store/serie/1100/4/19
+#EPISODIO: S04E20 - Mosbius Designs|http://redeflixapi.store/serie/1100/4/20
+#EPISODIO: S04E21 - A Regra dos Três Dias|http://redeflixapi.store/serie/1100/4/21
+#EPISODIO: S04E22 - No Lugar Certo, na Hora Certa|http://redeflixapi.store/serie/1100/4/22
+#EPISODIO: S04E23 - O Mais Rápido que Ela Puder|http://redeflixapi.store/serie/1100/4/23
+#EPISODIO: S04E24 - O Salto|http://redeflixapi.store/serie/1100/4/24
+#EPISODIO: S05E01 - Definições|http://redeflixapi.store/serie/1100/5/1
+#EPISODIO: S05E02 - Encontro Duplo|http://redeflixapi.store/serie/1100/5/2
+#EPISODIO: S05E03 - Introdução a Robin|http://redeflixapi.store/serie/1100/5/3
+#EPISODIO: S05E04 - O Anfitrião sem Sexo|http://redeflixapi.store/serie/1100/5/4
+#EPISODIO: S05E05 - Dupla Cidadania|http://redeflixapi.store/serie/1100/5/5
+#EPISODIO: S05E06 - O Vizinho de Cima|http://redeflixapi.store/serie/1100/5/6
+#EPISODIO: S05E07 - O Relacionamento Sério|http://redeflixapi.store/serie/1100/5/7
+#EPISODIO: S05E08 - O Livro de Cantadas|http://redeflixapi.store/serie/1100/5/8
+#EPISODIO: S05E09 - Estapeação de Graças 2|http://redeflixapi.store/serie/1100/5/9
+#EPISODIO: S05E10 - A Janela|http://redeflixapi.store/serie/1100/5/10
+#EPISODIO: S05E11 - O Último Cigarro|http://redeflixapi.store/serie/1100/5/11
+#EPISODIO: S05E12 - Garotas Contra Ternos|http://redeflixapi.store/serie/1100/5/12
+#EPISODIO: S05E13 - Jenkins|http://redeflixapi.store/serie/1100/5/13
+#EPISODIO: S05E14 - A Semana Perfeita|http://redeflixapi.store/serie/1100/5/14
+#EPISODIO: S05E15 - Coelho ou Pato|http://redeflixapi.store/serie/1100/5/15
+#EPISODIO: S05E16 - Fisgados|http://redeflixapi.store/serie/1100/5/16
+#EPISODIO: S05E17 - Com Certeza|http://redeflixapi.store/serie/1100/5/17
+#EPISODIO: S05E18 - Foto do Grupo|http://redeflixapi.store/serie/1100/5/18
+#EPISODIO: S05E19 - Verdadeiro ou Falso|http://redeflixapi.store/serie/1100/5/19
+#EPISODIO: S05E20 - O Grande Erro|http://redeflixapi.store/serie/1100/5/20
+#EPISODIO: S05E21 - Camas Separadas|http://redeflixapi.store/serie/1100/5/21
+#EPISODIO: S05E22 - Robôs Vs. Lutadores|http://redeflixapi.store/serie/1100/5/22
+#EPISODIO: S05E23 - A Noiva|http://redeflixapi.store/serie/1100/5/23
+#EPISODIO: S05E24 - Os Sósias|http://redeflixapi.store/serie/1100/5/24
+#EPISODIO: S06E01 - Dias Importantes|http://redeflixapi.store/serie/1100/6/1
+#EPISODIO: S06E02 - Dia de Mudança|http://redeflixapi.store/serie/1100/6/2
+#EPISODIO: S06E03 - Inacabado|http://redeflixapi.store/serie/1100/6/3
+#EPISODIO: S06E04 - A Guerra do Metrô|http://redeflixapi.store/serie/1100/6/4
+#EPISODIO: S06E05 - A Destruição do Arquiteto|http://redeflixapi.store/serie/1100/6/5
+#EPISODIO: S06E06 - Menino ou Menina|http://redeflixapi.store/serie/1100/6/6
+#EPISODIO: S06E07 - Conservando Randy|http://redeflixapi.store/serie/1100/6/7
+#EPISODIO: S06E08 - História Natural|http://redeflixapi.store/serie/1100/6/8
+#EPISODIO: S06E09 - O Programa Infantil|http://redeflixapi.store/serie/1100/6/9
+#EPISODIO: S06E10 - A Maldição do Blitz|http://redeflixapi.store/serie/1100/6/10
+#EPISODIO: S06E11 - A Teoria da Sereia|http://redeflixapi.store/serie/1100/6/11
+#EPISODIO: S06E12 - Positivo por Engano|http://redeflixapi.store/serie/1100/6/12
+#EPISODIO: S06E13 - Más Notícias|http://redeflixapi.store/serie/1100/6/13
+#EPISODIO: S06E14 - Últimas Palavras|http://redeflixapi.store/serie/1100/6/14
+#EPISODIO: S06E15 - A Doçura|http://redeflixapi.store/serie/1100/6/15
+#EPISODIO: S06E16 - O Dia do Desespero|http://redeflixapi.store/serie/1100/6/16
+#EPISODIO: S06E17 - A Ilha do Medo|http://redeflixapi.store/serie/1100/6/17
+#EPISODIO: S06E18 - Mudança de Opinião|http://redeflixapi.store/serie/1100/6/18
+#EPISODIO: S06E19 - Pai Lendário|http://redeflixapi.store/serie/1100/6/19
+#EPISODIO: S06E20 - O Sanduíche Explosivo de Almôndegas|http://redeflixapi.store/serie/1100/6/20
+#EPISODIO: S06E21 - Sem Chance|http://redeflixapi.store/serie/1100/6/21
+#EPISODIO: S06E22 - O Coquetel Perfeito|http://redeflixapi.store/serie/1100/6/22
+#EPISODIO: S06E23 - Tombamento|http://redeflixapi.store/serie/1100/6/23
+#EPISODIO: S06E24 - Desafio Aceito|http://redeflixapi.store/serie/1100/6/24
+#EPISODIO: S07E01 - Padrinho de Casamento|http://redeflixapi.store/serie/1100/7/1
+#EPISODIO: S07E02 - Pura Verdade|http://redeflixapi.store/serie/1100/7/2
+#EPISODIO: S07E03 - Gravata de Patinhos|http://redeflixapi.store/serie/1100/7/3
+#EPISODIO: S07E04 - A Crise Stinson|http://redeflixapi.store/serie/1100/7/4
+#EPISODIO: S07E05 - Excursão|http://redeflixapi.store/serie/1100/7/5
+#EPISODIO: S07E06 - Mistério Vs. História|http://redeflixapi.store/serie/1100/7/6
+#EPISODIO: S07E07 - Noretta|http://redeflixapi.store/serie/1100/7/7
+#EPISODIO: S07E08 - A Volta da Abóbora Melindrosa|http://redeflixapi.store/serie/1100/7/8
+#EPISODIO: S07E09 - Desastre Evitado|http://redeflixapi.store/serie/1100/7/9
+#EPISODIO: S07E10 - O Bater das Horas|http://redeflixapi.store/serie/1100/7/10
+#EPISODIO: S07E11 - Idas e Vindas|http://redeflixapi.store/serie/1100/7/11
+#EPISODIO: S07E12 - Sinfonia da Iluminação|http://redeflixapi.store/serie/1100/7/12
+#EPISODIO: S07E13 - Churrascos Informais|http://redeflixapi.store/serie/1100/7/13
+#EPISODIO: S07E14 - 46 minutos|http://redeflixapi.store/serie/1100/7/14
+#EPISODIO: S07E15 - Apicultor em Chamas|http://redeflixapi.store/serie/1100/7/15
+#EPISODIO: S07E16 - O Trem da Birita|http://redeflixapi.store/serie/1100/7/16
+#EPISODIO: S07E17 - Sem Pressão|http://redeflixapi.store/serie/1100/7/17
+#EPISODIO: S07E18 - Carma|http://redeflixapi.store/serie/1100/7/18
+#EPISODIO: S07E19 - O Jura Bro|http://redeflixapi.store/serie/1100/7/19
+#EPISODIO: S07E20 - A Trilogia|http://redeflixapi.store/serie/1100/7/20
+#EPISODIO: S07E21 - Agora Estamos Quites|http://redeflixapi.store/serie/1100/7/21
+#EPISODIO: S07E22 - Loucura Boa|http://redeflixapi.store/serie/1100/7/22
+#EPISODIO: S07E23 - Ética de Mágico (1)|http://redeflixapi.store/serie/1100/7/23
+#EPISODIO: S07E24 - Ética de Mágico (2)|http://redeflixapi.store/serie/1100/7/24
+#EPISODIO: S08E01 - Questão de Educação|http://redeflixapi.store/serie/1100/8/1
+#EPISODIO: S08E02 - O Acordo Pré-Nupcial|http://redeflixapi.store/serie/1100/8/2
+#EPISODIO: S08E03 - Babás|http://redeflixapi.store/serie/1100/8/3
+#EPISODIO: S08E04 - Quem Quer Ser Padrinho?|http://redeflixapi.store/serie/1100/8/4
+#EPISODIO: S08E05 - Temporada de Separações|http://redeflixapi.store/serie/1100/8/5
+#EPISODIO: S08E06 - O Grande Amigo|http://redeflixapi.store/serie/1100/8/6
+#EPISODIO: S08E07 - Selo Fácil|http://redeflixapi.store/serie/1100/8/7
+#EPISODIO: S08E08 - Doze Mulheres com Tesão|http://redeflixapi.store/serie/1100/8/8
+#EPISODIO: S08E09 - Ted, o Babá|http://redeflixapi.store/serie/1100/8/9
+#EPISODIO: S08E10 - A Vida Amorosa de Minha Mãe|http://redeflixapi.store/serie/1100/8/10
+#EPISODIO: S08E11 - A Página Final (1)|http://redeflixapi.store/serie/1100/8/11
+#EPISODIO: S08E12 - A Página Final (2)|http://redeflixapi.store/serie/1100/8/12
+#EPISODIO: S08E13 - Banda ou DJ?|http://redeflixapi.store/serie/1100/8/13
+#EPISODIO: S08E14 - O Poder do Anel|http://redeflixapi.store/serie/1100/8/14
+#EPISODIO: S08E15 - P.S. Eu Te Amo|http://redeflixapi.store/serie/1100/8/15
+#EPISODIO: S08E16 - A Doida|http://redeflixapi.store/serie/1100/8/16
+#EPISODIO: S08E17 - O Capitão|http://redeflixapi.store/serie/1100/8/17
+#EPISODIO: S08E18 - Final de Semana com Barney|http://redeflixapi.store/serie/1100/8/18
+#EPISODIO: S08E19 - A Fortaleza|http://redeflixapi.store/serie/1100/8/19
+#EPISODIO: S08E20 - Viajantes do Tempo|http://redeflixapi.store/serie/1100/8/20
+#EPISODIO: S08E21 - Proposta Italiana|http://redeflixapi.store/serie/1100/8/21
+#EPISODIO: S08E22 - Bro Mitzvah|http://redeflixapi.store/serie/1100/8/22
+#EPISODIO: S08E23 - Algo Antigo|http://redeflixapi.store/serie/1100/8/23
+#EPISODIO: S08E24 - Algo Novo|http://redeflixapi.store/serie/1100/8/24
+#EPISODIO: S09E01 - O Medalhão|http://redeflixapi.store/serie/1100/9/1
+#EPISODIO: S09E02 - Voltando|http://redeflixapi.store/serie/1100/9/2
+#EPISODIO: S09E03 - Última Vez em Nova York|http://redeflixapi.store/serie/1100/9/3
+#EPISODIO: S09E04 - O Código Quebrado|http://redeflixapi.store/serie/1100/9/4
+#EPISODIO: S09E05 - O Jogo de Pôquer|http://redeflixapi.store/serie/1100/9/5
+#EPISODIO: S09E06 - Visão do Cavaleiro|http://redeflixapi.store/serie/1100/9/6
+#EPISODIO: S09E07 - Sem Perguntas|http://redeflixapi.store/serie/1100/9/7
+#EPISODIO: S09E08 - O Farol|http://redeflixapi.store/serie/1100/9/8
+#EPISODIO: S09E09 - Platônico|http://redeflixapi.store/serie/1100/9/9
+#EPISODIO: S09E10 - Mamãe e Papai|http://redeflixapi.store/serie/1100/9/10
+#EPISODIO: S09E11 - Histórias de Ninar|http://redeflixapi.store/serie/1100/9/11
+#EPISODIO: S09E12 - O Jantar de Ensaio|http://redeflixapi.store/serie/1100/9/12
+#EPISODIO: S09E13 - O Intrigueiro|http://redeflixapi.store/serie/1100/9/13
+#EPISODIO: S09E14 - Estapeação 3|http://redeflixapi.store/serie/1100/9/14
+#EPISODIO: S09E15 - Despausar|http://redeflixapi.store/serie/1100/9/15
+#EPISODIO: S09E16 - Como Sua Mãe Me Conheceu|http://redeflixapi.store/serie/1100/9/16
+#EPISODIO: S09E17 - Nascer do Sol|http://redeflixapi.store/serie/1100/9/17
+#EPISODIO: S09E18 - Nunca Mais Vou Ficar Bêbado|http://redeflixapi.store/serie/1100/9/18
+#EPISODIO: S09E19 - Vesúvio|http://redeflixapi.store/serie/1100/9/19
+#EPISODIO: S09E20 - Daisy|http://redeflixapi.store/serie/1100/9/20
+#EPISODIO: S09E21 - Gary Blauman|http://redeflixapi.store/serie/1100/9/21
+#EPISODIO: S09E22 - O Fim do Corredor|http://redeflixapi.store/serie/1100/9/22
+#EPISODIO: S09E23 - Durar Para Sempre (1)|http://redeflixapi.store/serie/1100/9/23
+#EPISODIO: S09E24 - Durar Para Sempre (2)|http://redeflixapi.store/serie/1100/9/24
+# ==========================================
+# 📺 Bones (2005) - 12 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/rElaRnNez2dXBCMv1THHdVcroFY.jpg", [SERIE] Bones (2005)
+#SINOPSE: A Dra. Temperance Brennan é uma antropóloga forense altamente qualificada que trabalha no Instituto Jeffersonian e escreve romances. Ela possui um talento impressionante para enxergar pistas em ossos de vítimas, e por isso a polícia a chama para ajudar em investigações quando os restos mortais estão tão decompostos, queimados ou destruídos que métodos de identificação padrão são inúteis. Temperance frequentemente trabalha em parceria com o agente especial Seeley Booth, ex-atirador de elite do exército que não confia na ciência ou em cientistas para resolver crimes, mas desenvolveu um respeito pessoal e profissional por Temperance.
+#EPISODIO: S01E01 - Piloto|http://redeflixapi.store/serie/1911/1/1
+#EPISODIO: S01E02 - O Homem Bomba|http://redeflixapi.store/serie/1911/1/2
+#EPISODIO: S01E03 - A Chantagem|http://redeflixapi.store/serie/1911/1/3
+#EPISODIO: S01E04 - Canibalismo|http://redeflixapi.store/serie/1911/1/4
+#EPISODIO: S01E05 - Menino Desaparecido|http://redeflixapi.store/serie/1911/1/5
+#EPISODIO: S01E06 - O Homem Na Parede|http://redeflixapi.store/serie/1911/1/6
+#EPISODIO: S01E07 - No Corredor Da Morte|http://redeflixapi.store/serie/1911/1/7
+#EPISODIO: S01E08 - Juventude Perdida|http://redeflixapi.store/serie/1911/1/8
+#EPISODIO: S01E09 - História De Uma Vida|http://redeflixapi.store/serie/1911/1/9
+#EPISODIO: S01E10 - Sem Identidade|http://redeflixapi.store/serie/1911/1/10
+#EPISODIO: S01E11 - A Difícil Escolha|http://redeflixapi.store/serie/1911/1/11
+#EPISODIO: S01E12 - Anjo Salvador|http://redeflixapi.store/serie/1911/1/12
+#EPISODIO: S01E13 - Imigrantes E Ilegais|http://redeflixapi.store/serie/1911/1/13
+#EPISODIO: S01E14 - O Homem No Campo De Golf|http://redeflixapi.store/serie/1911/1/14
+#EPISODIO: S01E15 - Amigo Virtual|http://redeflixapi.store/serie/1911/1/15
+#EPISODIO: S01E16 - Documentação Fatal|http://redeflixapi.store/serie/1911/1/16
+#EPISODIO: S01E17 - Crime No Deserto|http://redeflixapi.store/serie/1911/1/17
+#EPISODIO: S01E18 - A Lenda Do Tesouro|http://redeflixapi.store/serie/1911/1/18
+#EPISODIO: S01E19 - O Homem No Necrotério|http://redeflixapi.store/serie/1911/1/19
+#EPISODIO: S01E20 - Transplante Mortal|http://redeflixapi.store/serie/1911/1/20
+#EPISODIO: S01E21 - Pesadelos De Guerra|http://redeflixapi.store/serie/1911/1/21
+#EPISODIO: S01E22 - Revirando O Passado|http://redeflixapi.store/serie/1911/1/22
+#EPISODIO: S02E01 - Jogada De Mestre|http://redeflixapi.store/serie/1911/2/1
+#EPISODIO: S02E02 - Gravidez e Sequestro|http://redeflixapi.store/serie/1911/2/2
+#EPISODIO: S02E03 - Meninos de Rua|http://redeflixapi.store/serie/1911/2/3
+#EPISODIO: S02E04 - No Corredor da Morte|http://redeflixapi.store/serie/1911/2/4
+#EPISODIO: S02E05 - Mistério na Construção|http://redeflixapi.store/serie/1911/2/5
+#EPISODIO: S02E06 - Imunidade Diplomática|http://redeflixapi.store/serie/1911/2/6
+#EPISODIO: S02E07 - A Rainha do Concurso|http://redeflixapi.store/serie/1911/2/7
+#EPISODIO: S02E08 - Viva Las Vegas|http://redeflixapi.store/serie/1911/2/8
+#EPISODIO: S02E09 - O Coveiro|http://redeflixapi.store/serie/1911/2/9
+#EPISODIO: S02E10 - Terror Na Floresta|http://redeflixapi.store/serie/1911/2/10
+#EPISODIO: S02E11 - Abandonada|http://redeflixapi.store/serie/1911/2/11
+#EPISODIO: S02E12 - O Misterioso Veneno|http://redeflixapi.store/serie/1911/2/12
+#EPISODIO: S02E13 - Morte no Parque|http://redeflixapi.store/serie/1911/2/13
+#EPISODIO: S02E14 - Conflito de Interesses|http://redeflixapi.store/serie/1911/2/14
+#EPISODIO: S02E15 - Corpos No Livro|http://redeflixapi.store/serie/1911/2/15
+#EPISODIO: S02E16 - Tradição Chinesa|http://redeflixapi.store/serie/1911/2/16
+#EPISODIO: S02E17 - A Razão|http://redeflixapi.store/serie/1911/2/17
+#EPISODIO: S02E18 - Ajuda Perigosa|http://redeflixapi.store/serie/1911/2/18
+#EPISODIO: S02E19 - O Homem Que Caiu Na Terra|http://redeflixapi.store/serie/1911/2/19
+#EPISODIO: S02E20 - O Mistério Dos Ossos Brilhantes|http://redeflixapi.store/serie/1911/2/20
+#EPISODIO: S02E21 - Astróloga Na Lama|http://redeflixapi.store/serie/1911/2/21
+#EPISODIO: S03E01 - O Filho Da Viúva|http://redeflixapi.store/serie/1911/3/1
+#EPISODIO: S03E02 - Exército Da Libertação Nacional|http://redeflixapi.store/serie/1911/3/2
+#EPISODIO: S03E03 - Brincando de Pônei|http://redeflixapi.store/serie/1911/3/3
+#EPISODIO: S03E04 - O Segredo No Solo|http://redeflixapi.store/serie/1911/3/4
+#EPISODIO: S03E05 - A Múmia No Labirinto|http://redeflixapi.store/serie/1911/3/5
+#EPISODIO: S03E06 - Traição|http://redeflixapi.store/serie/1911/3/6
+#EPISODIO: S03E07 - Vinte Anos Depois|http://redeflixapi.store/serie/1911/3/7
+#EPISODIO: S03E08 - O Aprendiz|http://redeflixapi.store/serie/1911/3/8
+#EPISODIO: S03E09 - A Magia Do Natal|http://redeflixapi.store/serie/1911/3/9
+#EPISODIO: S03E10 - A Vingança|http://redeflixapi.store/serie/1911/3/10
+#EPISODIO: S03E11 - Jogador Sob Pressão|http://redeflixapi.store/serie/1911/3/11
+#EPISODIO: S03E12 - Um Lar Para Andy|http://redeflixapi.store/serie/1911/3/12
+#EPISODIO: S03E13 - Golpe De Misericórdia|http://redeflixapi.store/serie/1911/3/13
+#EPISODIO: S03E14 - Paixão Desenfreada|http://redeflixapi.store/serie/1911/3/14
+#EPISODIO: S03E15 - O Fim De Gormogon|http://redeflixapi.store/serie/1911/3/15
+#EPISODIO: S04E01 - Ianques Na Inglaterra - Parte 1|http://redeflixapi.store/serie/1911/4/1
+#EPISODIO: S04E02 - Ianques Na Inglaterra - Parte 2|http://redeflixapi.store/serie/1911/4/2
+#EPISODIO: S04E03 - Flagrado Pelo Bill|http://redeflixapi.store/serie/1911/4/3
+#EPISODIO: S04E04 - O Dedo No Ninho|http://redeflixapi.store/serie/1911/4/4
+#EPISODIO: S04E05 - TOC - Transtorno Obsessivo Compulsivo|http://redeflixapi.store/serie/1911/4/5
+#EPISODIO: S04E06 - Um Corpo No Poço Do Elevador|http://redeflixapi.store/serie/1911/4/6
+#EPISODIO: S04E07 - Troca De Identidade|http://redeflixapi.store/serie/1911/4/7
+#EPISODIO: S04E08 - O Artista Na Escultura|http://redeflixapi.store/serie/1911/4/8
+#EPISODIO: S04E09 - O Irmão Mais Novo|http://redeflixapi.store/serie/1911/4/9
+#EPISODIO: S04E10 - Assassinato Em Pleno Ar|http://redeflixapi.store/serie/1911/4/10
+#EPISODIO: S04E11 - Um Novo Emprego|http://redeflixapi.store/serie/1911/4/11
+#EPISODIO: S04E12 - Mortes Circense|http://redeflixapi.store/serie/1911/4/12
+#EPISODIO: S04E13 - Homicídio No Gelo|http://redeflixapi.store/serie/1911/4/13
+#EPISODIO: S04E14 - O Fantasma|http://redeflixapi.store/serie/1911/4/14
+#EPISODIO: S04E15 - Excalibur E O Rei Arthur|http://redeflixapi.store/serie/1911/4/15
+#EPISODIO: S04E16 - O Cadáver em Extinção|http://redeflixapi.store/serie/1911/4/16
+#EPISODIO: S04E17 - O Pacto|http://redeflixapi.store/serie/1911/4/17
+#EPISODIO: S04E18 - Morte no Zoológico|http://redeflixapi.store/serie/1911/4/18
+#EPISODIO: S04E19 - Chili De Carne|http://redeflixapi.store/serie/1911/4/19
+#EPISODIO: S04E20 - O Ciúme|http://redeflixapi.store/serie/1911/4/20
+#EPISODIO: S04E21 - Trauma de Infância|http://redeflixapi.store/serie/1911/4/21
+#EPISODIO: S04E22 - Mistério No Velório|http://redeflixapi.store/serie/1911/4/22
+#EPISODIO: S04E23 - A Máscara Da Morte|http://redeflixapi.store/serie/1911/4/23
+#EPISODIO: S04E24 - A Fraternidade|http://redeflixapi.store/serie/1911/4/24
+#EPISODIO: S04E25 - A Vingança|http://redeflixapi.store/serie/1911/4/25
+#EPISODIO: S04E26 - A Álibi|http://redeflixapi.store/serie/1911/4/26
+#EPISODIO: S05E01 - Harbingers in the Fountain|http://redeflixapi.store/serie/1911/5/1
+#EPISODIO: S05E02 - The Bond in the Boot|http://redeflixapi.store/serie/1911/5/2
+#EPISODIO: S05E03 - The Plain in the Prodigy|http://redeflixapi.store/serie/1911/5/3
+#EPISODIO: S05E04 - Beautiful Day in the Neighborhood|http://redeflixapi.store/serie/1911/5/4
+#EPISODIO: S05E05 - A Night at the Bones Museum|http://redeflixapi.store/serie/1911/5/5
+#EPISODIO: S05E06 - Tough Man in the Tender Chicken|http://redeflixapi.store/serie/1911/5/6
+#EPISODIO: S05E07 - The Dwarf in the Dirt|http://redeflixapi.store/serie/1911/5/7
+#EPISODIO: S05E08 - The Foot in the Foreclosure|http://redeflixapi.store/serie/1911/5/8
+#EPISODIO: S05E09 - The Gamer in the Grease|http://redeflixapi.store/serie/1911/5/9
+#EPISODIO: S05E10 - The Goop on the Girl|http://redeflixapi.store/serie/1911/5/10
+#EPISODIO: S05E11 - The X in the File|http://redeflixapi.store/serie/1911/5/11
+#EPISODIO: S05E12 - The Proof in the Pudding|http://redeflixapi.store/serie/1911/5/12
+#EPISODIO: S05E13 - The Dentist in the Ditch|http://redeflixapi.store/serie/1911/5/13
+#EPISODIO: S05E14 - The Devil in the Details|http://redeflixapi.store/serie/1911/5/14
+#EPISODIO: S05E15 - The Bones on the Blue Line|http://redeflixapi.store/serie/1911/5/15
+#EPISODIO: S05E16 - The Parts in the Sum of the Whole|http://redeflixapi.store/serie/1911/5/16
+#EPISODIO: S05E17 - The Death of the Queen Bee|http://redeflixapi.store/serie/1911/5/17
+#EPISODIO: S05E18 - The Predator in the Pool|http://redeflixapi.store/serie/1911/5/18
+#EPISODIO: S05E19 - The Rocker in the Rinse Cycle|http://redeflixapi.store/serie/1911/5/19
+#EPISODIO: S05E20 - The Witch in the Wardrobe|http://redeflixapi.store/serie/1911/5/20
+#EPISODIO: S05E21 - The Boy With the Answer|http://redeflixapi.store/serie/1911/5/21
+#EPISODIO: S05E22 - The Beginning in the End|http://redeflixapi.store/serie/1911/5/22
+#EPISODIO: S06E01 - The Mastodon in the Room|http://redeflixapi.store/serie/1911/6/1
+#EPISODIO: S06E02 - The Couple in the Cave|http://redeflixapi.store/serie/1911/6/2
+#EPISODIO: S06E03 - The Maggots in the Meathead|http://redeflixapi.store/serie/1911/6/3
+#EPISODIO: S06E04 - The Body and the Bounty|http://redeflixapi.store/serie/1911/6/4
+#EPISODIO: S06E05 - The Bones that Weren't|http://redeflixapi.store/serie/1911/6/5
+#EPISODIO: S06E06 - The Shallow in the Deep|http://redeflixapi.store/serie/1911/6/6
+#EPISODIO: S06E07 - The Babe in the Bar|http://redeflixapi.store/serie/1911/6/7
+#EPISODIO: S06E08 - The Twisted Bones in the Melted Truck|http://redeflixapi.store/serie/1911/6/8
+#EPISODIO: S06E09 - The Doctor in the Photo|http://redeflixapi.store/serie/1911/6/9
+#EPISODIO: S06E10 - The Body in the Bag|http://redeflixapi.store/serie/1911/6/10
+#EPISODIO: S06E11 - The Bullet in the Brain|http://redeflixapi.store/serie/1911/6/11
+#EPISODIO: S06E12 - The Sin in the Sisterhood|http://redeflixapi.store/serie/1911/6/12
+#EPISODIO: S06E13 - The Daredevil in the Mold|http://redeflixapi.store/serie/1911/6/13
+#EPISODIO: S06E14 - The Bikini in the Soup|http://redeflixapi.store/serie/1911/6/14
+#EPISODIO: S06E15 - The Killer in the Crosshairs|http://redeflixapi.store/serie/1911/6/15
+#EPISODIO: S06E16 - The Blackout in the Blizzard|http://redeflixapi.store/serie/1911/6/16
+#EPISODIO: S06E17 - The Feet on the Beach|http://redeflixapi.store/serie/1911/6/17
+#EPISODIO: S06E18 - The Truth in the Myth|http://redeflixapi.store/serie/1911/6/18
+#EPISODIO: S06E19 - The Finder|http://redeflixapi.store/serie/1911/6/19
+#EPISODIO: S06E20 - The Pinocchio in the Planter|http://redeflixapi.store/serie/1911/6/20
+#EPISODIO: S06E21 - The Signs in the Silence|http://redeflixapi.store/serie/1911/6/21
+#EPISODIO: S06E22 - The Hole in the Heart|http://redeflixapi.store/serie/1911/6/22
+#EPISODIO: S06E23 - The Change in the Game|http://redeflixapi.store/serie/1911/6/23
+#EPISODIO: S07E01 - The Memories in the Shallow Grave|http://redeflixapi.store/serie/1911/7/1
+#EPISODIO: S07E02 - The Hot Dog in the Competition|http://redeflixapi.store/serie/1911/7/2
+#EPISODIO: S07E03 - The Prince in the Plastic|http://redeflixapi.store/serie/1911/7/3
+#EPISODIO: S07E04 - The Male in the Mail|http://redeflixapi.store/serie/1911/7/4
+#EPISODIO: S07E05 - The Twist in The Twister|http://redeflixapi.store/serie/1911/7/5
+#EPISODIO: S07E06 - The Crack in The Code|http://redeflixapi.store/serie/1911/7/6
+#EPISODIO: S07E07 - Prisoner in the Pipe|http://redeflixapi.store/serie/1911/7/7
+#EPISODIO: S07E08 - The Bump in the Road|http://redeflixapi.store/serie/1911/7/8
+#EPISODIO: S07E09 - The Don't in the Do|http://redeflixapi.store/serie/1911/7/9
+#EPISODIO: S07E10 - The Warrior in the Wuss|http://redeflixapi.store/serie/1911/7/10
+#EPISODIO: S07E11 - The Family in the Feud|http://redeflixapi.store/serie/1911/7/11
+#EPISODIO: S07E12 - The Suit on the Set|http://redeflixapi.store/serie/1911/7/12
+#EPISODIO: S07E13 - The Past in the Present|http://redeflixapi.store/serie/1911/7/13
+#EPISODIO: S08E01 - The Future in the Past|http://redeflixapi.store/serie/1911/8/1
+#EPISODIO: S08E02 - The Partners in the Divorce|http://redeflixapi.store/serie/1911/8/2
+#EPISODIO: S08E03 - The Gunk in the Garage|http://redeflixapi.store/serie/1911/8/3
+#EPISODIO: S08E04 - The Tiger in the Tale|http://redeflixapi.store/serie/1911/8/4
+#EPISODIO: S08E05 - The Method in the Madness|http://redeflixapi.store/serie/1911/8/5
+#EPISODIO: S08E06 - The Patriot in Purgatory|http://redeflixapi.store/serie/1911/8/6
+#EPISODIO: S08E07 - The Bod in the Pod|http://redeflixapi.store/serie/1911/8/7
+#EPISODIO: S08E08 - The But In The Joke|http://redeflixapi.store/serie/1911/8/8
+#EPISODIO: S08E09 - The Ghost in the Machine|http://redeflixapi.store/serie/1911/8/9
+#EPISODIO: S08E10 - The Diamond in the Rough|http://redeflixapi.store/serie/1911/8/10
+#EPISODIO: S08E11 - The Archaeologist in the Cocoon|http://redeflixapi.store/serie/1911/8/11
+#EPISODIO: S08E12 - The Corpse on the Canopy|http://redeflixapi.store/serie/1911/8/12
+#EPISODIO: S08E13 - The Twist In The Plot|http://redeflixapi.store/serie/1911/8/13
+#EPISODIO: S08E14 - The Doll In The Derby|http://redeflixapi.store/serie/1911/8/14
+#EPISODIO: S08E15 - The Shot In The Dark|http://redeflixapi.store/serie/1911/8/15
+#EPISODIO: S08E16 - The Friend In Need|http://redeflixapi.store/serie/1911/8/16
+#EPISODIO: S08E17 - The Fact In The Fiction|http://redeflixapi.store/serie/1911/8/17
+#EPISODIO: S08E18 - The Survivor in the Soap|http://redeflixapi.store/serie/1911/8/18
+#EPISODIO: S08E19 - The Doom in the Gloom|http://redeflixapi.store/serie/1911/8/19
+#EPISODIO: S08E20 - The Blood from the Stones|http://redeflixapi.store/serie/1911/8/20
+#EPISODIO: S08E21 - The Maiden in the Mushrooms|http://redeflixapi.store/serie/1911/8/21
+#EPISODIO: S08E22 - The Party in the Pants|http://redeflixapi.store/serie/1911/8/22
+#EPISODIO: S08E23 - The Pathos in the Pathogens|http://redeflixapi.store/serie/1911/8/23
+#EPISODIO: S08E24 - The Secret in the Siege|http://redeflixapi.store/serie/1911/8/24
+#EPISODIO: S09E01 - The Secrets in the Proposal|http://redeflixapi.store/serie/1911/9/1
+#EPISODIO: S09E02 - The Cheat in the Retreat|http://redeflixapi.store/serie/1911/9/2
+#EPISODIO: S09E03 - El Carnicero en el Coche|http://redeflixapi.store/serie/1911/9/3
+#EPISODIO: S09E04 - The Sense in the Sacrifice|http://redeflixapi.store/serie/1911/9/4
+#EPISODIO: S09E05 - The Lady on the List|http://redeflixapi.store/serie/1911/9/5
+#EPISODIO: S09E06 - The Woman In White|http://redeflixapi.store/serie/1911/9/6
+#EPISODIO: S09E07 - The Nazi on the Honeymoon|http://redeflixapi.store/serie/1911/9/7
+#EPISODIO: S09E08 - The Dude In The Dam|http://redeflixapi.store/serie/1911/9/8
+#EPISODIO: S09E09 - The Fury In The Jury|http://redeflixapi.store/serie/1911/9/9
+#EPISODIO: S09E10 - The Mystery in the Meat|http://redeflixapi.store/serie/1911/9/10
+#EPISODIO: S09E11 - The Spark in the Park|http://redeflixapi.store/serie/1911/9/11
+#EPISODIO: S09E12 - The Ghost in the Killer|http://redeflixapi.store/serie/1911/9/12
+#EPISODIO: S09E13 - Big in the Philippines|http://redeflixapi.store/serie/1911/9/13
+#EPISODIO: S09E14 - The Master In The Slop|http://redeflixapi.store/serie/1911/9/14
+#EPISODIO: S09E15 - The Heiress in the Hill|http://redeflixapi.store/serie/1911/9/15
+#EPISODIO: S09E16 - The Source in the Sludge|http://redeflixapi.store/serie/1911/9/16
+#EPISODIO: S09E17 - The Repo Man In The Septic Tank|http://redeflixapi.store/serie/1911/9/17
+#EPISODIO: S09E18 - The Carrot in the Kudzu|http://redeflixapi.store/serie/1911/9/18
+#EPISODIO: S09E19 - The Turn In The Urn|http://redeflixapi.store/serie/1911/9/19
+#EPISODIO: S09E20 - The High In The Low|http://redeflixapi.store/serie/1911/9/20
+#EPISODIO: S09E21 - The Cold in the Case|http://redeflixapi.store/serie/1911/9/21
+#EPISODIO: S09E22 - The Nail In The Coffin|http://redeflixapi.store/serie/1911/9/22
+#EPISODIO: S09E23 - The Drama in the Queen|http://redeflixapi.store/serie/1911/9/23
+#EPISODIO: S09E24 - The Recluse in the Recliner|http://redeflixapi.store/serie/1911/9/24
+#EPISODIO: S10E01 - The Conspiracy in the Corpse|http://redeflixapi.store/serie/1911/10/1
+#EPISODIO: S10E02 - The Lance to the Heart|http://redeflixapi.store/serie/1911/10/2
+#EPISODIO: S10E03 - The Purging in the Pundit|http://redeflixapi.store/serie/1911/10/3
+#EPISODIO: S10E04 - The Geek in the Guck|http://redeflixapi.store/serie/1911/10/4
+#EPISODIO: S10E05 - The Corpse at the Convention|http://redeflixapi.store/serie/1911/10/5
+#EPISODIO: S10E06 - The Lost Love in the Foreign Land|http://redeflixapi.store/serie/1911/10/6
+#EPISODIO: S10E07 - The Money Maker on the Merry-Go-Round|http://redeflixapi.store/serie/1911/10/7
+#EPISODIO: S10E08 - The Puzzler in the Pit|http://redeflixapi.store/serie/1911/10/8
+#EPISODIO: S10E09 - The Mutilation of the Master Manipulator|http://redeflixapi.store/serie/1911/10/9
+#EPISODIO: S10E10 - The 200th in the 10th|http://redeflixapi.store/serie/1911/10/10
+#EPISODIO: S10E11 - The Psychic in the Soup|http://redeflixapi.store/serie/1911/10/11
+#EPISODIO: S10E12 - The Teacher in the Books|http://redeflixapi.store/serie/1911/10/12
+#EPISODIO: S10E13 - The Baker in the Bits|http://redeflixapi.store/serie/1911/10/13
+#EPISODIO: S10E14 - The Putter in the Rough|http://redeflixapi.store/serie/1911/10/14
+#EPISODIO: S10E15 - The Eye in the Sky|http://redeflixapi.store/serie/1911/10/15
+#EPISODIO: S10E16 - The Big Beef at the Royal Diner|http://redeflixapi.store/serie/1911/10/16
+#EPISODIO: S10E17 - The Lost in the Found|http://redeflixapi.store/serie/1911/10/17
+#EPISODIO: S10E18 - The Verdict in the Victims|http://redeflixapi.store/serie/1911/10/18
+#EPISODIO: S10E19 - The Murder in the Middle East|http://redeflixapi.store/serie/1911/10/19
+#EPISODIO: S10E20 - The Woman in the Whirlpool|http://redeflixapi.store/serie/1911/10/20
+#EPISODIO: S10E21 - The Life in the Light|http://redeflixapi.store/serie/1911/10/21
+#EPISODIO: S10E22 - The Next in the Last|http://redeflixapi.store/serie/1911/10/22
+#EPISODIO: S11E01 - The Loyalty in the Lie|http://redeflixapi.store/serie/1911/11/1
+#EPISODIO: S11E02 - The Brother in the Basement|http://redeflixapi.store/serie/1911/11/2
+#EPISODIO: S11E03 - The Donor in the Drink|http://redeflixapi.store/serie/1911/11/3
+#EPISODIO: S11E04 - Episódio 4|http://redeflixapi.store/serie/1911/11/4
+#EPISODIO: S11E05 - The Resurrection in the Remains|http://redeflixapi.store/serie/1911/11/5
+#EPISODIO: S11E06 - The Senator in the Street Sweeper|http://redeflixapi.store/serie/1911/11/6
+#EPISODIO: S11E07 - The Promise in the Palace|http://redeflixapi.store/serie/1911/11/7
+#EPISODIO: S11E08 - High Treason in the Holiday Season|http://redeflixapi.store/serie/1911/11/8
+#EPISODIO: S11E09 - The Cowboy in the Contest|http://redeflixapi.store/serie/1911/11/9
+#EPISODIO: S11E10 - The Doom in the Boom|http://redeflixapi.store/serie/1911/11/10
+#EPISODIO: S11E11 - The Death in the Defense|http://redeflixapi.store/serie/1911/11/11
+#EPISODIO: S11E12 - The Murder of the Meninist|http://redeflixapi.store/serie/1911/11/12
+#EPISODIO: S11E13 - The Monster in the Closet|http://redeflixapi.store/serie/1911/11/13
+#EPISODIO: S11E14 - The Last Shot at a Second Chance|http://redeflixapi.store/serie/1911/11/14
+#EPISODIO: S11E15 - The Fight in the Fixer|http://redeflixapi.store/serie/1911/11/15
+#EPISODIO: S11E16 - The Strike in the Chord|http://redeflixapi.store/serie/1911/11/16
+#EPISODIO: S11E17 - Episódio 17|http://redeflixapi.store/serie/1911/11/17
+#EPISODIO: S11E18 - The Movie in the Making|http://redeflixapi.store/serie/1911/11/18
+#EPISODIO: S11E19 - The Head in the Abutment|http://redeflixapi.store/serie/1911/11/19
+#EPISODIO: S11E20 - The Stiff in the Cliff|http://redeflixapi.store/serie/1911/11/20
+#EPISODIO: S11E21 - The Jewel in the Crown|http://redeflixapi.store/serie/1911/11/21
+#EPISODIO: S11E22 - The Nightmare in the Nightmare|http://redeflixapi.store/serie/1911/11/22
+#EPISODIO: S12E01 - The Hope in the Horror|http://redeflixapi.store/serie/1911/12/1
+#EPISODIO: S12E02 - The Brain in the Bot|http://redeflixapi.store/serie/1911/12/2
+#EPISODIO: S12E03 - The New Tricks in the Old Dogs|http://redeflixapi.store/serie/1911/12/3
+#EPISODIO: S12E04 - The Price for the Past|http://redeflixapi.store/serie/1911/12/4
+#EPISODIO: S12E05 - The Tutor in the Tussle|http://redeflixapi.store/serie/1911/12/5
+#EPISODIO: S12E06 - The Flaw in the Saw|http://redeflixapi.store/serie/1911/12/6
+#EPISODIO: S12E07 - The Scare in the Score|http://redeflixapi.store/serie/1911/12/7
+#EPISODIO: S12E08 - The Grief and the Girl|http://redeflixapi.store/serie/1911/12/8
+#EPISODIO: S12E09 - The Steel in the Wheels|http://redeflixapi.store/serie/1911/12/9
+#EPISODIO: S12E10 - The Radioactive Panthers in the Party|http://redeflixapi.store/serie/1911/12/10
+#EPISODIO: S12E11 - The Day in the Life|http://redeflixapi.store/serie/1911/12/11
+#EPISODIO: S12E12 - The End in the End|http://redeflixapi.store/serie/1911/12/12
+# ==========================================
+# 📺 CSI: Miami (2002) - 10 TEMPORADAS
+# ==========================================
+#EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/uMLbHU7a7RWTg1vacCNtHnnzbPU.jpg", [SERIE] CSI: Miami (2002)
+#SINOPSE: Um time de investigadores forenses da Flórida usa tecnologia de ponta e métodos policiais tradicionais para solucionar crimes.
+#EPISODIO: S01E01 - Golden Parachute|http://redeflixapi.store/serie/1620/1/1
+#EPISODIO: S01E02 - Losing Face|http://redeflixapi.store/serie/1620/1/2
+#EPISODIO: S01E03 - Wet Foot/Dry Foot|http://redeflixapi.store/serie/1620/1/3
+#EPISODIO: S01E04 - Just One Kiss|http://redeflixapi.store/serie/1620/1/4
+#EPISODIO: S01E05 - Ashes To Ashes|http://redeflixapi.store/serie/1620/1/5
+#EPISODIO: S01E06 - Broken|http://redeflixapi.store/serie/1620/1/6
+#EPISODIO: S01E07 - Breathless|http://redeflixapi.store/serie/1620/1/7
+#EPISODIO: S01E08 - Slaughterhouse|http://redeflixapi.store/serie/1620/1/8
+#EPISODIO: S01E09 - Killzone|http://redeflixapi.store/serie/1620/1/9
+#EPISODIO: S01E10 - A Horrible Mind|http://redeflixapi.store/serie/1620/1/10
+#EPISODIO: S01E11 - Camp Fear|http://redeflixapi.store/serie/1620/1/11
+#EPISODIO: S01E12 - Entrance Wound|http://redeflixapi.store/serie/1620/1/12
+#EPISODIO: S01E13 - Bunk|http://redeflixapi.store/serie/1620/1/13
+#EPISODIO: S01E14 - Forced Entry|http://redeflixapi.store/serie/1620/1/14
+#EPISODIO: S01E15 - Dead Woman Walking|http://redeflixapi.store/serie/1620/1/15
+#EPISODIO: S01E16 - Evidence of Things Unseen|http://redeflixapi.store/serie/1620/1/16
+#EPISODIO: S01E17 - Simple Man|http://redeflixapi.store/serie/1620/1/17
+#EPISODIO: S01E18 - Dispo Day|http://redeflixapi.store/serie/1620/1/18
+#EPISODIO: S01E19 - Double Cap|http://redeflixapi.store/serie/1620/1/19
+#EPISODIO: S01E20 - Grave Young Men|http://redeflixapi.store/serie/1620/1/20
+#EPISODIO: S01E21 - Spring Break|http://redeflixapi.store/serie/1620/1/21
+#EPISODIO: S01E22 - Tinder Box|http://redeflixapi.store/serie/1620/1/22
+#EPISODIO: S01E23 - Freaks and Tweaks|http://redeflixapi.store/serie/1620/1/23
+#EPISODIO: S01E24 - Body Count|http://redeflixapi.store/serie/1620/1/24
+#EPISODIO: S02E01 - Episódio 1|http://redeflixapi.store/serie/1620/2/1
+#EPISODIO: S02E02 - Episódio 2|http://redeflixapi.store/serie/1620/2/2
+#EPISODIO: S02E03 - Episódio 3|http://redeflixapi.store/serie/1620/2/3
+#EPISODIO: S02E04 - Episódio 4|http://redeflixapi.store/serie/1620/2/4
+#EPISODIO: S02E05 - Episódio 5|http://redeflixapi.store/serie/1620/2/5
+#EPISODIO: S02E06 - Episódio 6|http://redeflixapi.store/serie/1620/2/6
+#EPISODIO: S02E07 - Episódio 7|http://redeflixapi.store/serie/1620/2/7
+#EPISODIO: S02E08 - Episódio 8|http://redeflixapi.store/serie/1620/2/8
+#EPISODIO: S02E09 - Bait|http://redeflixapi.store/serie/1620/2/9
+#EPISODIO: S02E10 - Episódio 10|http://redeflixapi.store/serie/1620/2/10
+#EPISODIO: S02E11 - Episódio 11|http://redeflixapi.store/serie/1620/2/11
+#EPISODIO: S02E12 - Episódio 12|http://redeflixapi.store/serie/1620/2/12
+#EPISODIO: S02E13 - Episódio 13|http://redeflixapi.store/serie/1620/2/13
+#EPISODIO: S02E14 - Episódio 14|http://redeflixapi.store/serie/1620/2/14
+#EPISODIO: S02E15 - Episódio 15|http://redeflixapi.store/serie/1620/2/15
+#EPISODIO: S02E16 - Episódio 16|http://redeflixapi.store/serie/1620/2/16
+#EPISODIO: S02E17 - Episódio 17|http://redeflixapi.store/serie/1620/2/17
+#EPISODIO: S02E18 - Episódio 18|http://redeflixapi.store/serie/1620/2/18
+#EPISODIO: S02E19 - Episódio 19|http://redeflixapi.store/serie/1620/2/19
+#EPISODIO: S02E20 - Episódio 20|http://redeflixapi.store/serie/1620/2/20
+#EPISODIO: S02E21 - Episódio 21|http://redeflixapi.store/serie/1620/2/21
+#EPISODIO: S02E22 - Episódio 22|http://redeflixapi.store/serie/1620/2/22
+#EPISODIO: S02E23 - Episódio 23|http://redeflixapi.store/serie/1620/2/23
+#EPISODIO: S02E24 - Episódio 24|http://redeflixapi.store/serie/1620/2/24
+#EPISODIO: S03E01 - Lost Son|http://redeflixapi.store/serie/1620/3/1
+#EPISODIO: S03E02 - Pro Per|http://redeflixapi.store/serie/1620/3/2
+#EPISODIO: S03E03 - Under the Influence|http://redeflixapi.store/serie/1620/3/3
+#EPISODIO: S03E04 - Murder In A Flash|http://redeflixapi.store/serie/1620/3/4
+#EPISODIO: S03E05 - Legal|http://redeflixapi.store/serie/1620/3/5
+#EPISODIO: S03E06 - Hell Night|http://redeflixapi.store/serie/1620/3/6
+#EPISODIO: S03E07 - Crime Wave|http://redeflixapi.store/serie/1620/3/7
+#EPISODIO: S03E08 - Speed Kills|http://redeflixapi.store/serie/1620/3/8
+#EPISODIO: S03E09 - Pirated|http://redeflixapi.store/serie/1620/3/9
+#EPISODIO: S03E10 - After The Fall|http://redeflixapi.store/serie/1620/3/10
+#EPISODIO: S03E11 - Addiction|http://redeflixapi.store/serie/1620/3/11
+#EPISODIO: S03E12 - Shootout|http://redeflixapi.store/serie/1620/3/12
+#EPISODIO: S03E13 - Cop Killer|http://redeflixapi.store/serie/1620/3/13
+#EPISODIO: S03E14 - One Night Stand|http://redeflixapi.store/serie/1620/3/14
+#EPISODIO: S03E15 - Identity|http://redeflixapi.store/serie/1620/3/15
+#EPISODIO: S03E16 - Nothing to Lose|http://redeflixapi.store/serie/1620/3/16
+#EPISODIO: S03E17 - Money Plane|http://redeflixapi.store/serie/1620/3/17
+#EPISODIO: S03E18 - Game Over|http://redeflixapi.store/serie/1620/3/18
+#EPISODIO: S03E19 - Sex & Taxes|http://redeflixapi.store/serie/1620/3/19
+#EPISODIO: S03E20 - Killer Date|http://redeflixapi.store/serie/1620/3/20
+#EPISODIO: S03E21 - Recoil|http://redeflixapi.store/serie/1620/3/21
+#EPISODIO: S03E22 - Vengeance|http://redeflixapi.store/serie/1620/3/22
+#EPISODIO: S03E23 - Whacked|http://redeflixapi.store/serie/1620/3/23
+#EPISODIO: S03E24 - 10-7|http://redeflixapi.store/serie/1620/3/24
+#EPISODIO: S04E01 - From the Grave|http://redeflixapi.store/serie/1620/4/1
+#EPISODIO: S04E02 - Blood In The Water|http://redeflixapi.store/serie/1620/4/2
+#EPISODIO: S04E03 - Prey|http://redeflixapi.store/serie/1620/4/3
+#EPISODIO: S04E04 - 48 Hours To Life|http://redeflixapi.store/serie/1620/4/4
+#EPISODIO: S04E05 - Three-Way|http://redeflixapi.store/serie/1620/4/5
+#EPISODIO: S04E06 - Under Suspicion|http://redeflixapi.store/serie/1620/4/6
+#EPISODIO: S04E07 - Felony Flight|http://redeflixapi.store/serie/1620/4/7
+#EPISODIO: S04E08 - Nailed|http://redeflixapi.store/serie/1620/4/8
+#EPISODIO: S04E09 - Urban Hellraisers|http://redeflixapi.store/serie/1620/4/9
+#EPISODIO: S04E10 - Shattered|http://redeflixapi.store/serie/1620/4/10
+#EPISODIO: S04E11 - Payback|http://redeflixapi.store/serie/1620/4/11
+#EPISODIO: S04E12 - The Score|http://redeflixapi.store/serie/1620/4/12
+#EPISODIO: S04E13 - Silencer|http://redeflixapi.store/serie/1620/4/13
+#EPISODIO: S04E14 - Fade Out|http://redeflixapi.store/serie/1620/4/14
+#EPISODIO: S04E15 - Skeletons|http://redeflixapi.store/serie/1620/4/15
+#EPISODIO: S04E16 - Deviant|http://redeflixapi.store/serie/1620/4/16
+#EPISODIO: S04E17 - Collision|http://redeflixapi.store/serie/1620/4/17
+#EPISODIO: S04E18 - Double Jeopardy|http://redeflixapi.store/serie/1620/4/18
+#EPISODIO: S04E19 - Driven|http://redeflixapi.store/serie/1620/4/19
+#EPISODIO: S04E20 - Free Fall|http://redeflixapi.store/serie/1620/4/20
+#EPISODIO: S04E21 - Dead Air|http://redeflixapi.store/serie/1620/4/21
+#EPISODIO: S04E22 - Open Water|http://redeflixapi.store/serie/1620/4/22
+#EPISODIO: S04E23 - Shock|http://redeflixapi.store/serie/1620/4/23
+#EPISODIO: S04E24 - Rampage|http://redeflixapi.store/serie/1620/4/24
+#EPISODIO: S04E25 - One Of Our Own|http://redeflixapi.store/serie/1620/4/25
+#EPISODIO: S05E01 - Rio|http://redeflixapi.store/serie/1620/5/1
+#EPISODIO: S05E02 - Going Under|http://redeflixapi.store/serie/1620/5/2
+#EPISODIO: S05E03 - Death Pool 100|http://redeflixapi.store/serie/1620/5/3
+#EPISODIO: S05E04 - If Looks Could Kill|http://redeflixapi.store/serie/1620/5/4
+#EPISODIO: S05E05 - Death Eminent|http://redeflixapi.store/serie/1620/5/5
+#EPISODIO: S05E06 - Curse Of The Coffin|http://redeflixapi.store/serie/1620/5/6
+#EPISODIO: S05E07 - High Octane|http://redeflixapi.store/serie/1620/5/7
+#EPISODIO: S05E08 - Darkroom|http://redeflixapi.store/serie/1620/5/8
+#EPISODIO: S05E09 - Going, Going, Gone|http://redeflixapi.store/serie/1620/5/9
+#EPISODIO: S05E10 - Come As You Are|http://redeflixapi.store/serie/1620/5/10
+#EPISODIO: S05E11 - Backstabbers|http://redeflixapi.store/serie/1620/5/11
+#EPISODIO: S05E12 - Internal Affairs|http://redeflixapi.store/serie/1620/5/12
+#EPISODIO: S05E13 - Throwing Heat|http://redeflixapi.store/serie/1620/5/13
+#EPISODIO: S05E14 - No Man's Land|http://redeflixapi.store/serie/1620/5/14
+#EPISODIO: S05E15 - Man Down|http://redeflixapi.store/serie/1620/5/15
+#EPISODIO: S05E16 - Broken Home|http://redeflixapi.store/serie/1620/5/16
+#EPISODIO: S05E17 - A Grizzly Murder|http://redeflixapi.store/serie/1620/5/17
+#EPISODIO: S05E18 - Triple Threat|http://redeflixapi.store/serie/1620/5/18
+#EPISODIO: S05E19 - Bloodline|http://redeflixapi.store/serie/1620/5/19
+#EPISODIO: S05E20 - Rush|http://redeflixapi.store/serie/1620/5/20
+#EPISODIO: S05E21 - Just Murdered|http://redeflixapi.store/serie/1620/5/21
+#EPISODIO: S05E22 - Burned|http://redeflixapi.store/serie/1620/5/22
+#EPISODIO: S05E23 - Kill Switch|http://redeflixapi.store/serie/1620/5/23
+#EPISODIO: S05E24 - Born to Kill|http://redeflixapi.store/serie/1620/5/24
+#EPISODIO: S06E01 - Dangerous Son|http://redeflixapi.store/serie/1620/6/1
+#EPISODIO: S06E02 - Cyber-lebrity|http://redeflixapi.store/serie/1620/6/2
+#EPISODIO: S06E03 - Inside Out|http://redeflixapi.store/serie/1620/6/3
+#EPISODIO: S06E04 - Bang, Bang, Your Debt|http://redeflixapi.store/serie/1620/6/4
+#EPISODIO: S06E05 - Deep Freeze|http://redeflixapi.store/serie/1620/6/5
+#EPISODIO: S06E06 - Sunblock|http://redeflixapi.store/serie/1620/6/6
+#EPISODIO: S06E07 - Chain Reaction|http://redeflixapi.store/serie/1620/6/7
+#EPISODIO: S06E08 - Permanent Vacation|http://redeflixapi.store/serie/1620/6/8
+#EPISODIO: S06E09 - Stand Your Ground|http://redeflixapi.store/serie/1620/6/9
+#EPISODIO: S06E10 - CSI: My Nanny|http://redeflixapi.store/serie/1620/6/10
+#EPISODIO: S06E11 - Guerillas in the Mist|http://redeflixapi.store/serie/1620/6/11
+#EPISODIO: S06E12 - Miami Confidential|http://redeflixapi.store/serie/1620/6/12
+#EPISODIO: S06E13 - Raising Caine|http://redeflixapi.store/serie/1620/6/13
+#EPISODIO: S06E14 - You May Now Kill the Bride|http://redeflixapi.store/serie/1620/6/14
+#EPISODIO: S06E15 - Ambush|http://redeflixapi.store/serie/1620/6/15
+#EPISODIO: S06E16 - All In|http://redeflixapi.store/serie/1620/6/16
+#EPISODIO: S06E17 - To Kill A Predator|http://redeflixapi.store/serie/1620/6/17
+#EPISODIO: S06E18 - Tunnel Vision|http://redeflixapi.store/serie/1620/6/18
+#EPISODIO: S06E19 - Rock and A Hard Place|http://redeflixapi.store/serie/1620/6/19
+#EPISODIO: S06E20 - Down to the Wire|http://redeflixapi.store/serie/1620/6/20
+#EPISODIO: S06E21 - Going Ballistic|http://redeflixapi.store/serie/1620/6/21
+#EPISODIO: S07E01 - Resurrection|http://redeflixapi.store/serie/1620/7/1
+#EPISODIO: S07E02 - Won't Get Fueled Again|http://redeflixapi.store/serie/1620/7/2
+#EPISODIO: S07E03 - And How Does That Make You Kill?|http://redeflixapi.store/serie/1620/7/3
+#EPISODIO: S07E04 - Raging Cannibal|http://redeflixapi.store/serie/1620/7/4
+#EPISODIO: S07E05 - Bombshell|http://redeflixapi.store/serie/1620/7/5
+#EPISODIO: S07E06 - Wrecking Crew|http://redeflixapi.store/serie/1620/7/6
+#EPISODIO: S07E07 - Cheating Death|http://redeflixapi.store/serie/1620/7/7
+#EPISODIO: S07E08 - Gone Baby Gone|http://redeflixapi.store/serie/1620/7/8
+#EPISODIO: S07E09 - Power Trip|http://redeflixapi.store/serie/1620/7/9
+#EPISODIO: S07E10 - The DeLuca Motel|http://redeflixapi.store/serie/1620/7/10
+#EPISODIO: S07E11 - Tipping Point|http://redeflixapi.store/serie/1620/7/11
+#EPISODIO: S07E12 - Head Case|http://redeflixapi.store/serie/1620/7/12
+#EPISODIO: S07E13 - And They're Offed|http://redeflixapi.store/serie/1620/7/13
+#EPISODIO: S07E14 - Smoke Gets in Your CSI's|http://redeflixapi.store/serie/1620/7/14
+#EPISODIO: S07E15 - Presumed Guilty|http://redeflixapi.store/serie/1620/7/15
+#EPISODIO: S07E16 - Sink or Swim|http://redeflixapi.store/serie/1620/7/16
+#EPISODIO: S07E17 - Divorce Party|http://redeflixapi.store/serie/1620/7/17
+#EPISODIO: S07E18 - Flight Risk|http://redeflixapi.store/serie/1620/7/18
+#EPISODIO: S07E19 - Target Specific|http://redeflixapi.store/serie/1620/7/19
+#EPISODIO: S07E20 - Wolfe In Sheep's Clothing|http://redeflixapi.store/serie/1620/7/20
+#EPISODIO: S07E21 - Chip/Tuck|http://redeflixapi.store/serie/1620/7/21
+#EPISODIO: S07E22 - Dead on Arrival|http://redeflixapi.store/serie/1620/7/22
+#EPISODIO: S07E23 - Collateral Damage|http://redeflixapi.store/serie/1620/7/23
+#EPISODIO: S07E24 - Dissolved|http://redeflixapi.store/serie/1620/7/24
+#EPISODIO: S07E25 - Seeing Red|http://redeflixapi.store/serie/1620/7/25
+#EPISODIO: S08E01 - Out of Time|http://redeflixapi.store/serie/1620/8/1
+#EPISODIO: S08E02 - Hostile Takeover|http://redeflixapi.store/serie/1620/8/2
+#EPISODIO: S08E03 - Bolt Action|http://redeflixapi.store/serie/1620/8/3
+#EPISODIO: S08E04 - In Plane Sight|http://redeflixapi.store/serie/1620/8/4
+#EPISODIO: S08E05 - Bad Seed|http://redeflixapi.store/serie/1620/8/5
+#EPISODIO: S08E06 - Dude, Where's My Groom?|http://redeflixapi.store/serie/1620/8/6
+#EPISODIO: S08E07 - Bone Voyage|http://redeflixapi.store/serie/1620/8/7
+#EPISODIO: S08E08 - Point of Impact|http://redeflixapi.store/serie/1620/8/8
+#EPISODIO: S08E09 - Kill Clause|http://redeflixapi.store/serie/1620/8/9
+#EPISODIO: S08E10 - Count Me Out|http://redeflixapi.store/serie/1620/8/10
+#EPISODIO: S08E11 - Delko for the Defense|http://redeflixapi.store/serie/1620/8/11
+#EPISODIO: S08E12 - Show Stopper|http://redeflixapi.store/serie/1620/8/12
+#EPISODIO: S08E13 - Die By The Sword|http://redeflixapi.store/serie/1620/8/13
+#EPISODIO: S08E14 - In The Wind|http://redeflixapi.store/serie/1620/8/14
+#EPISODIO: S08E15 - Miami, We Have a Problem|http://redeflixapi.store/serie/1620/8/15
+#EPISODIO: S08E16 - L.A.|http://redeflixapi.store/serie/1620/8/16
+#EPISODIO: S08E17 - Getting Axed|http://redeflixapi.store/serie/1620/8/17
+#EPISODIO: S08E18 - Dishonor|http://redeflixapi.store/serie/1620/8/18
+#EPISODIO: S08E19 - Spring Breakdown|http://redeflixapi.store/serie/1620/8/19
+#EPISODIO: S08E20 - Backfire|http://redeflixapi.store/serie/1620/8/20
+#EPISODIO: S08E21 - Meltdown|http://redeflixapi.store/serie/1620/8/21
+#EPISODIO: S08E22 - Mommie Deadest|http://redeflixapi.store/serie/1620/8/22
+#EPISODIO: S08E23 - Time Bomb|http://redeflixapi.store/serie/1620/8/23
+#EPISODIO: S08E24 - All Fall Down|http://redeflixapi.store/serie/1620/8/24
+#EPISODIO: S09E01 - Caído|http://redeflixapi.store/serie/1620/9/1
+#EPISODIO: S09E02 - Sudden Death|http://redeflixapi.store/serie/1620/9/2
+#EPISODIO: S09E03 - Sem Problema|http://redeflixapi.store/serie/1620/9/3
+#EPISODIO: S09E04 - Caçada|http://redeflixapi.store/serie/1620/9/4
+#EPISODIO: S09E05 - Sleepless in Miami|http://redeflixapi.store/serie/1620/9/5
+#EPISODIO: S09E06 - Realidade Mata|http://redeflixapi.store/serie/1620/9/6
+#EPISODIO: S09E07 - On the Hook|http://redeflixapi.store/serie/1620/9/7
+#EPISODIO: S09E08 - Feliz Aniversário|http://redeflixapi.store/serie/1620/9/8
+#EPISODIO: S09E09 - Açúcar com Sangue|http://redeflixapi.store/serie/1620/9/9
+#EPISODIO: S09E10 - Match Made in Hell|http://redeflixapi.store/serie/1620/9/10
+#EPISODIO: S09E11 - F-T-F|http://redeflixapi.store/serie/1620/9/11
+#EPISODIO: S09E12 - Wheels Up|http://redeflixapi.store/serie/1620/9/12
+#EPISODIO: S09E13 - Last Stand|http://redeflixapi.store/serie/1620/9/13
+#EPISODIO: S09E14 - Stoned Cold|http://redeflixapi.store/serie/1620/9/14
+#EPISODIO: S09E15 - Blood Lust|http://redeflixapi.store/serie/1620/9/15
+#EPISODIO: S09E16 - Hunting Ground|http://redeflixapi.store/serie/1620/9/16
+#EPISODIO: S09E17 - Special Delivery|http://redeflixapi.store/serie/1620/9/17
+#EPISODIO: S09E18 - About Face|http://redeflixapi.store/serie/1620/9/18
+#EPISODIO: S09E19 - Caged|http://redeflixapi.store/serie/1620/9/19
+#EPISODIO: S09E20 - Paint It Black|http://redeflixapi.store/serie/1620/9/20
+#EPISODIO: S09E21 - G.O.|http://redeflixapi.store/serie/1620/9/21
+#EPISODIO: S09E22 - Mayday|http://redeflixapi.store/serie/1620/9/22
+#EPISODIO: S10E01 - Providência|http://redeflixapi.store/serie/1620/10/1
+#EPISODIO: S10E02 - Cadáver|http://redeflixapi.store/serie/1620/10/2
+#EPISODIO: S10E03 - Pelos Ares|http://redeflixapi.store/serie/1620/10/3
+#EPISODIO: S10E04 - Provocação|http://redeflixapi.store/serie/1620/10/4
+#EPISODIO: S10E05 - Lamento Assassino|http://redeflixapi.store/serie/1620/10/5
+#EPISODIO: S10E06 - Pelas Regras|http://redeflixapi.store/serie/1620/10/6
+#EPISODIO: S10E07 - O Pecador Leva Tudo|http://redeflixapi.store/serie/1620/10/7
+#EPISODIO: S10E08 - Dead Ringer|http://redeflixapi.store/serie/1620/10/8
+#EPISODIO: S10E09 - A Few Dead Men|http://redeflixapi.store/serie/1620/10/9
+#EPISODIO: S10E10 - Faz Tempo|http://redeflixapi.store/serie/1620/10/10
+#EPISODIO: S10E11 - Coroada|http://redeflixapi.store/serie/1620/10/11
+#EPISODIO: S10E12 - Fogo Amigo|http://redeflixapi.store/serie/1620/10/12
+#EPISODIO: S10E13 - Velocidade Fatal|http://redeflixapi.store/serie/1620/10/13
+#EPISODIO: S10E14 - Last Straw|http://redeflixapi.store/serie/1620/10/14
+#EPISODIO: S10E15 - No Good Deed|http://redeflixapi.store/serie/1620/10/15
+#EPISODIO: S10E16 - Rest in Pieces|http://redeflixapi.store/serie/1620/10/16
+#EPISODIO: S10E17 - Em Risco|http://redeflixapi.store/serie/1620/10/17
+#EPISODIO: S10E18 - Lei e Desordem|http://redeflixapi.store/serie/1620/10/18
+#EPISODIO: S10E19 - Habeas Corpus|http://redeflixapi.store/serie/1620/10/19
+# ==========================================
 # 📺 CSI: Investigação Criminal (2000) - 15 TEMPORADAS
 # ==========================================
 #EXTINF:-1 group-title="Séries" tvg-logo="https://image.tmdb.org/t/p/w500/1OOXYxrLLupCiUP78fDVGwaq0As.jpg", [SERIE] CSI: Investigação Criminal (2000)
